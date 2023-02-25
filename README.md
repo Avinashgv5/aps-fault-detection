@@ -12,4 +12,7 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
+
+
+# cahnges in neuro lab
 ```
